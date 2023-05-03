@@ -13,14 +13,14 @@ function Home() {
   return (
     <Container>
         <Section 
-          title="Mode S"
+          title="Model S"
           desc="Order Online for Touchless Delivery"
           backgroundImg={ModelS}
           leftBtnTxt="Custom Order"
           rightBtnTxt="Existing Inventory"
          />
         <Section 
-          title="Mode Y"
+          title="Model Y"
           desc="Order Online for Touchless Delivery"
           backgroundImg={ModelY}
           leftBtnTxt="Custom Order"
@@ -34,7 +34,7 @@ function Home() {
           rightBtnTxt="Existing Inventory"
          />
         <Section 
-          title="Mode X"
+          title="Model X"
           desc="Order Online for Touchless Delivery"
           backgroundImg={ModelX}
           leftBtnTxt="Custom Order"
